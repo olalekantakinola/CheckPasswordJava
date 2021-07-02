@@ -4,7 +4,6 @@ import java.util.Scanner;
  * A class that validates a password based on rules.
  * <p>
  * The provided code is incomplete. Modify it so that it works properly and passes the tests in
- * <code>CheckPasswordTest.java</code>.
  *
  */
 public class CheckPassword {
